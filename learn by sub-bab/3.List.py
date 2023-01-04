@@ -46,6 +46,6 @@ list_String.append("Galih")
 midle_Name = list_Name[1]
 
 # mencetak isi variabel listAngka, listString, dan juga menuliskan nama tengah dari listNama
-print(listAngka)
-print(listString)
-print("Nama tengahku adalah %s. " % namaTengah)
+print(list_Angka)
+print(list_String)
+print("Nama tengahku adalah %s. " % midle_Name)
